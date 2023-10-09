@@ -14,19 +14,9 @@
 	- [Nanjing University of Posts and Telecommunications](http://www.njupt.edu.cn), *Najing Jiangsu. 2019-2023*
     - [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/), *Beijing. 2023-2026*
 
-    
-    
-    
 
-
-    
-  
   </div>
   
-
-
-
-<hr>
 <h2 align="left" style="margin:8px"><inline style="color:red">C</inline>onnect with me:</h2>
 
   <div style="margin-left:3%">
